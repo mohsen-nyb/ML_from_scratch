@@ -1,6 +1,6 @@
 import numpy as np
 
-class MyDecisionTree:
+class DecisionTree:
     """
     A simple implementation of a binary classification decision tree using Gini impurity for splitting, with a depth-limited approach.
     
